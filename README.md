@@ -1,8 +1,16 @@
-# nuc6i5syh
-macOS  monterey 12.1. efi
+# Hackintosh-NUC6i5SYH-OpenCore-Monterey-EFI
 
-更新至oc0.7.8 
+macOS Monterey 12.1. efi
 
-更换了bcm94360cs2网卡
+更新至OpenCore v0.7.8
 
+支持Intel Wi-Fi & Bluetooth
+
+#### Link
+
+https://github.com/fengdulieren/nuc6i5syh
+
+https://github.com/OpenIntelWireless/IntelBluetoothFirmware
+
+https://github.com/acidanthera/BrcmPatchRAM
 
